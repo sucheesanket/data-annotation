@@ -28,6 +28,34 @@
 
 # file=open("start.py","r")
 # print(file)
-with open ("start.py","r") as file:
-    data = file.read()
-    print(data)
+# with open ("start.py","r") as file:
+#     data = file.read()
+#     print(data)
+
+# fruits=["mango","banana","orange","kiwi","lund"]
+# # print(fruits[1])
+# # print(fruits[-4])
+# # print(fruits[-1])
+# # print(fruits[2:3])
+# fruits.append("MKC")
+# fruits.insert(2,"Chutiya")
+# fruits.remove("kiwi")
+# print(fruits)
+
+# student={
+    
+#     "name":"sanket",
+#     "age":22,
+#     "college":"IGIT",
+# }
+# student["city"]="Balasore"
+# print(student)
+
+import numpy as np
+arr=np.array([1,2,3])
+arr=arr+20
+max=np.max(arr)
+print(max)
+
+    
+
