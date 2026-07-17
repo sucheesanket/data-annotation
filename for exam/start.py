@@ -51,11 +51,11 @@
 # student["city"]="Balasore"
 # print(student)
 
-import numpy as np
-arr=np.array([1,2,3])
-arr=arr+20
-max=np.max(arr)
-print(max)
-
+# import numpy as np
+# arr=np.array([1,2,3])
+# arr=arr+20
+# max=np.max(arr)
+# print(max)
+# just to maintain the streak i have to do this
     
 
